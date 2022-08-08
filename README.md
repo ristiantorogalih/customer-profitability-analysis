@@ -4,8 +4,8 @@
 
 ## Quickstart
 1. This is a jupyter notebook analysis to find out which is customer segment that gives best value for company.
-2. customer segmentation using K-Means Unsupervised Learning
-3. Map Recency, Frequency, and Monetary Factors to Quadrant to visualize customer positioning
+2. customer segmentation using K-Means Unsupervised Learning.
+3. Map Recency, Frequency, and Monetary Factors to Quadrant to visualize customer positioning.
 
 ## Example of Use
 ![image](https://user-images.githubusercontent.com/80676118/177783470-2b587e2d-489d-4afa-82e7-5963ea2e9fee.png)
